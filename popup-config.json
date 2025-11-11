@@ -1,0 +1,25 @@
+{
+  "default": {
+    "active": true,
+    "url": "https://seninreklamsiten.com",
+    "title": "Yeni Slot Sitesi – Hoş Geldin Bonusu!",
+    "desc": "Hemen tıkla, yüksek hoş geldin bonusunu kaçırma.",
+    "image": "https://senindomainin.com/reklam-gorseli.webp"
+  },
+  "sites": {
+    "film1.com": {
+      "active": true,
+      "url": "https://reklam1.com",
+      "title": "Film1 İçin Özel Bonus!",
+      "desc": "Film1 ziyaretçilerine özel kampanya.",
+      "image": "https://senindomainin.com/film1-popup.webp"
+    },
+    "film2.com": {
+      "active": false,
+      "url": "https://reklam2.com",
+      "title": "Film2 Popup Kapalı",
+      "desc": "Bu site için popup pasif.",
+      "image": ""
+    }
+  }
+}
