@@ -1,8 +1,10 @@
-"1xbetusa.com": {
-  "active": true,
-  "url": "https://1xbetusa.com",
-  "title": "1xbet Giriş – En Güncel 1xBet Adresi (2025)",
-  "desc": "Resmi 1xbet giriş bağlantısı burada! Hızlı ve güvenli 1xbet giriş için tek tık yeter, %100 hoş geldin bonusunu kaçırma.",
-  "image": "",
-  "minIntervalMinutes": 25
+{
+  "1xbetusa.com": {
+    "active": true,
+    "url": "https://1xbetusa.com",
+    "title": "1xbet Giriş – En Güncel 1xBet Adresi (2025)",
+    "desc": "Resmi 1xbet giriş bağlantısı burada! Hızlı ve güvenli 1xbet giriş için tek tık yeter, %100 hoş geldin bonusunu kaçırma.",
+    "image": "",
+    "minIntervalMinutes": 25
+  }
 }
