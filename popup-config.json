@@ -6,5 +6,13 @@
     "desc": "Resmi 1xbet giriş bağlantısı burada! Hızlı ve güvenli 1xbet giriş için tek tık yeter, %100 hoş geldin bonusunu kaçırma.",
     "image": "",
     "minIntervalMinutes": 25
+  },
+  "sistemtercume.com.tr": {
+    "active": true,
+    "url": "https://1xbetusa.com",   // denemeyi nereye yönlendireceksen
+    "title": "1xbet Giriş – Güncel Link",
+    "desc": "Sistemtercume üzerinden deneme yönlendirmesi.",
+    "image": "",
+    "minIntervalMinutes": 1         // test için 1 dakika yap, sonra 25’e çıkarırsın
   }
 }
